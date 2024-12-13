@@ -1,4 +1,5 @@
 I. Project Overview
+
 The objective of the Sprout scout: Community Plant Tracker is to provide a console-based application that allows users to manage and monitor their community or personal garden effectively. The program enables users to add plant details, view comprehensive plant information, and receive reminders for watering schedules. This application serves as a simple yet practical tool to encourage plant care and community engagement.
 Key Features:
 1.	Add a Plant:
